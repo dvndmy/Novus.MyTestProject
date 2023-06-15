@@ -17,7 +17,7 @@ namespace MyTestProject
             double y = 5.0;
 
             // Set the expected value of the addition
-            double expectedValue = 5.0;
+            double expectedValue = 9.0;
 
             // Perform the addition and get the actual value
             double actualValue = c.Add(x, y);

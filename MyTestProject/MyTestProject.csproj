@@ -57,8 +57,12 @@
   <ItemGroup>
     <Compile Include="Calc.cs" />
     <Compile Include="CalcTest.cs" />
+    <Compile Include="Circle.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Rectangle.cs" />
+    <Compile Include="ShapeTest.cs" />
+    <Compile Include="Triangle.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
